@@ -45,7 +45,7 @@ export const cvData = {
     "Tools & Technologies": [
       "VS Code",
       "Postman",
-      "JIRA",
+      "GitHub",
       
       "Linux/Ubuntu",
      

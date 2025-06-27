@@ -356,8 +356,7 @@ const About = () => {
                     DevOps & Deployment
                   </h4>
                   <p className="text-sm">
-                    Docker containerization, Nginx configuration, and CI/CD
-                    pipeline setup
+                    Docker containerization, Nginx configuration, 
                   </p>
                 </div>
               </div>
